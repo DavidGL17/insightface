@@ -101,3 +101,23 @@ ENV/
 .mypy_cache/
 
 .DS_Store
+
+
+myenv
+.scrfd_env
+detection/scrfd/dataWiderFace
+detection/scrfd/dataset
+detection/scrfd/data
+detection/scrfd/reference
+detection/scrfd/test_images
+detection/scrfd/results
+detection/scrfd/models
+WiderFaceDS
+
+detection/retinaface/data
+detection/retinaface/reference
+detection/retinaface/test_images
+detection/retinaface/results
+
+detection/retinaface/model
+kinetic
